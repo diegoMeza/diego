@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"GEOPOSICIONAMIENTO "</string>
+    <string name="action_settings">Settings</string>
+    <string name="creado">Creado por:</string>
+    <string name="integrante1">Carlos Charris</string>
+    <string name="integrante2">Diego Meza</string>
+    <string name="integrante3">Jesus Jinete</string>
+    <string name="desc">Bruja</string>
+
+</resources>
